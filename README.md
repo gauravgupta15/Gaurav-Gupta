@@ -1,20 +1,124 @@
-<h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
-<h3 align="center">Memento Mori</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+# 👋 Welcome to My GitHub Profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spysparker&label=Profile%20views&color=0e75b6&style=flat" alt="spysparker" /> </p>
+I'm **Gaurav Gupta**, a passionate Full-Stack Software Developer dedicated to building impactful solutions using modern technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gaurav-gupta-806221219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-gupta-806221219/" height="30" width="40" /></a>
-<a href="https://leetcode.com/0xgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/0xgupta/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## 🎯 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spysparker&show_icons=true&locale=en&layout=compact" alt="spysparker" /></p>
+Driven by curiosity and a passion for clean code, I specialize in building scalable applications with **Java**, **Spring Boot**, **JavaScript**, and **ReactJS**. I'm continuously learning and exploring new technologies to stay ahead in the fast-paced world of software development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spysparker&show_icons=true&locale=en" alt="spysparker" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spysparker&" alt="spysparker" /></p>
+## 💻 Technical Skills
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+| Certification | Year |
+|---|---|
+| **AWS Certified** | 2024 |
+| **Microsoft Azure AI-900** | 2024 |
+
+---
+
+## 🚀 Featured Projects
+
+### 🚂 [Railway Management System](https://github.com/gauravgupta15/RailwayManagementSystem)
+A comprehensive railway booking and management platform built with **Spring Boot** backend and **ReactJS** frontend.
+
+**Features:**
+- Train scheduling and management
+- Real-time seat availability tracking
+- User-friendly booking interface
+- Admin dashboard for operations
+
+**Tech Stack:** Java, Spring Boot, ReactJS, MySQL, RESTful APIs
+
+---
+
+### 💊 [PharmaMind](https://github.com/gauravgupta15/PharmaMind)
+An intelligent pharmacy management system designed to streamline pharmaceutical operations.
+
+**Features:**
+- Inventory management
+- Medicine tracking
+- Prescription management
+- Automated stock alerts
+
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL
+
+---
+
+### 🎫 [TrainTrip](https://github.com/gauravgupta15/TrainTrip)
+A modern train booking application with an intuitive user experience.
+
+**Tech Stack:** JavaScript, ReactJS, Node.js, MongoDB
+
+---
+
+## 📊 GitHub Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=gauravgupta15&color=blue&style=flat-square)
+
+---
+
+## 🎯 Competitive Programming
+
+- **LeetCode:** [0xsparker](https://leetcode.com/u/0xsparker/)
+  - Active problem solver
+  - Focus on DSA and optimization
+
+- **HackerOne:** [0xsparke](https://hackerone.com/0xsparke)
+  - Security enthusiast
+  - Bug bounty contributor
+
+---
+
+## 📚 What I'm Learning
+
+- 🔐 Advanced System Design
+- ☁️ Cloud Architecture (AWS & Azure)
+- 🤖 AI/ML Integration in Applications
+- 📦 Microservices Architecture
+
+---
+
+## 👀 Profile Engagement Tracker
+
+**Total Profile Views:** ![Views Count](https://profile-counter.glitch.me/gauravgupta15/count.svg)
+
+*Curious who's watching? Check back to see your profile impressions grow!*
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 **Email:** [gkumargupta0315@gmail.com](mailto:gkumargupta0315@gmail.com)
+- 💼 **LinkedIn:** [gauravgupta87](https://www.linkedin.com/in/gauravgupta87/)
+- 🐙 **GitHub:** [gauravgupta15](https://github.com/gauravgupta15)
+- 💬 **LeetCode:** [0xsparker](https://leetcode.com/u/0xsparker/)
+
+---
+
+## 🎓 Microsoft Credentials
+
+**Azure AI-900 Certified Developer**  
+[View Credential](https://learn.microsoft.com/en-us/users/guptagaurav-7517/credentials/998d0a52eda2619a)
+
+---
+
+## 📈 My Development Journey
